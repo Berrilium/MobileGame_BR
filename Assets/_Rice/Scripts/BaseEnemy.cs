@@ -1,5 +1,12 @@
 using UnityEngine;
 
+
+/*
+ * Berri Rice
+ * Date Created: 11/12/26
+ * Date Last Modified: 11/12/26
+ * Description: 
+ */
 public class BaseEnemy : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
